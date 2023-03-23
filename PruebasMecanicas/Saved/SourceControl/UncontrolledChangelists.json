@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Proyectos Unreal/PruebasMecanicas/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Proyectos Unreal/PruebasMecanicas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"D:/Proyectos Unreal/PruebasMecanicas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset",
+				"D:/Proyectos Unreal/PruebasMecanicas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"D:/Proyectos Unreal/PruebasMecanicas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorMaterials/MatineeCam_mat.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/VREditor/TransformGizmo/Main.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/VREditor/TransformGizmo/Xray.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorMaterials/Camera/CineMat.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorMaterials/Thumbnails/FloorPlaneMaterial.uasset",
+				"D:/Proyectos Unreal/PruebasMecanicas/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
+				"D:/Proyectos Unreal/PruebasMecanicas/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset",
+				"D:/Proyectos Unreal/PruebasMecanicas/Content/LevelPrototyping/Materials/M_Solid.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineSky/M_SimpleSkyDome.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorMaterials/PersonaFloorMat.uasset",
+				"D:/Proyectos Unreal/PruebasMecanicas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"D:/Proyectos Unreal/PruebasMecanicas/Content/ThirdPerson/Blueprints/Texto.uasset",
+				"D:/Proyectos Unreal/PruebasMecanicas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/0P/QEC6AVRT9KWX2QFMOK92UW.uasset",
+				"D:/Proyectos Unreal/PruebasMecanicas/Content/ThirdPerson/Blueprints/NewBlueprint.uasset"
+			]
+		}
+	]
+}
